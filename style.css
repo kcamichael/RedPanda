@@ -27,5 +27,55 @@ h3{
 }
 .img{
     height: 200px;
-    width: 200px
+    width: 200px;
+}
+#Kevinli{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 11pt;
+    text-align: left;
+    padding-bottom: 5px;
+}
+
+#Kevinul{
+    align-items: center;
+    font-weight: bold;
+    font-size: 14pt;
+    padding-top: 2px;
+}
+
+#KevinHeader{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24pt;
+    align-items: center;
+}
+
+#KevinEasterEgg{
+    padding-left: 30px;
+    padding-top: 10px;
+    align-items: center;
+}
+
+#Kevin{
+    background-color: rgb(126, 186, 210);
+    border: 28;
+    border-color: rgb(0, 0, 0);
+    align-self: center;
+}
+
+#ClarissaSection{
+    font-family: 'Pacifico', cursive;
+    background-color: rgb(255, 236, 127);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+#Clarissah2{
+    text-decoration: underline;
+}
+.ClarissaImg{
+    height: 150px;
+    width: 150px;
+}
+#Sean {
+    background-color: rgba(50, 212, 22, .5);
+    text-align: center;
 }
