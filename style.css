@@ -1,3 +1,16 @@
+#ClarissaSection{
+    font-family: 'Pacifico', cursive;
+    background-color: rgb(255, 236, 127);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+#Clarissah2{
+    text-decoration: underline;
+}
+.ClarissaImg{
+    height: 150px;
+    width: 150px;
+}
 #Sean {
     background-color: rgba(50, 212, 22, .5);
     text-align: center;
