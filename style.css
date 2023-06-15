@@ -32,12 +32,12 @@ h3{
 #Kevinli{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 11pt;
-    text-align: left;
+    text-align: center;
     padding-bottom: 5px;
 }
 
 #Kevinul{
-    align-items: center;
+    text-align: center;
     font-weight: bold;
     font-size: 14pt;
     padding-top: 2px;
